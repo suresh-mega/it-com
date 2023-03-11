@@ -38,7 +38,7 @@ class WhyChooseUs extends Component {
             </div>
             <div className="col-lg-6">
               <div className="why-choose-thumb">
-                <img src="https://helpteck.com/assets/images/why-choose-thumb.jpg" alt="AOL Mail 295" title="AOL Mail 295" />
+                <img src="https://helpteck.com/assets/images/quickbook-thumb.jpg" alt="Quickbook" title="Quickbook" />
               </div>
             </div>
           </div>
