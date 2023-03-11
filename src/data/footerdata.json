@@ -1,0 +1,88 @@
+{
+  "footerlogohomeone": "http://192.168.56.1:3000/assets/images/logo-2.png",
+  "footerlogohometwo": "http://192.168.56.1:3000/assets/images/logo-3.png",
+  "footerlogohomethree": "http://192.168.56.1:3000/assets/images/logo-6.png",
+  "footertext": "IT Support is a one-stop destination to resolve all your technical issues.",
+  "socialicon": [
+      {
+        "icon": "fa fa-facebook-square",
+        "url": "https://www.facebook.com/people/ITSupportservices/100086913738536/"
+      },
+      {
+        "icon": "fa fa-twitter",
+        "url": "https://twitter.com/itsupport_usa"
+      },
+      {
+        "icon": "fa fa-instagram",
+        "url": "https://www.instagram.com/itsupport.usa/"
+      },
+      {
+        "icon": "fa fa-linkedin-square",
+        "url": "https://www.linkedin.com/in/itsupportusa"
+      },
+      {
+        "icon": "fa fa-pinterest-p",
+        "url": "https://in.pinterest.com/itsupportus/"
+      }
+    ],
+  "copyrighttext": "Copyright © 2023 <a href='https://itsupport.net.in/'> IT Support.</a>",
+  "copyrgihtmenu": {
+    "links": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "Contact",
+        "url": "/contact-us"
+      }
+    ]
+  },
+  "quicklink": {
+    "title": "Useful Links",
+    "links": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "Contact",
+        "url": "/contact-us"
+      },
+      {
+        "title": "Sitemap",
+        "url": "./../sitemap.xml"
+      }
+      
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "links": [
+      {
+        "title": "Aol Support",
+        "url": "/aol-mail-login-support"
+      },
+      {
+        "title": "QuickBooks Support",
+        "url": "/quickbooks-intuit-support"
+      }
+      
+    
+    ]
+  },
+  "instagram": {
+    "title": "Important Links",
+    "firstlist": [
+        {
+          "title": "Aol Support",
+          "url": "aol-mail-login-support"
+        },
+        {
+          "title": "QuickBooks",
+          "url": "quickbooks-intuit-support"
+        }
+      ]
+  }
+
+}
