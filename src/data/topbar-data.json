@@ -1,0 +1,27 @@
+{
+  "navbarone": {
+    "leftpartone": "Address: 595 Bluffs Dr, Marina CA 93933, USA",
+    "leftparttwo": "us.cloudservices@gmail.com",
+    "leftpartthree": "+1(231) 981-0372",
+    "socialicon": [
+      {
+        "icon":"fa fa-facebook-f",
+        "url":"https://www.facebook.com/webtend/"
+      },
+      {
+        "icon":"fa fa-twitter",
+        "url":"https://twitter.com/webtend"
+      },
+      {
+        "icon":"fa fa-linkedin",
+        "url":"https://linkedin.com/webtend"
+      }
+    ]
+  },
+  "navbartwo": {
+    "title": "Address",
+    "content": "4249 Dach Street Jamukara, CT 06082",
+    "email": "info@yourdomain.com",
+    "phone": "1-992-322 0065"
+  }
+}
