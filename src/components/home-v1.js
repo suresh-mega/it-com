@@ -23,10 +23,10 @@ const Home_V1 = () => {
             <meta property="og:description" content="HelpTeck provides managed IT services, support and technology consulting for businesses of all sizes. We handle all updates, antivirus, security, and monitoring for you."/>
             <meta property="og:url" content="https://www.itsupport.net.in/"/>
             <meta property="og:site_name" content="A Leading Customer Support Services Since One Decade"/>
-            <meta property="og:image" content="https://helpteck.com/assets/images/clean-designs-thumb.jpg"/>
+            <meta property="og:image" content="https://h6b2a3k3.stackpathcdn.com/assets/images/clean-designs-thumb.jpg"/>
             <meta name="twitter:title" content="Computer Support Services — IT Support & Consulting"/>
             <meta name="twitter:description" content="HelpTeck provides managed IT services, support and technology consulting for businesses of all sizes. We handle all updates, antivirus, security, and monitoring for you."/>
-            <meta name="twitter:image" content="https://helpteck.com/assets/images/why-choose-thumb.jpg"/>
+            <meta name="twitter:image" content="https://h6b2a3k3.stackpathcdn.com/assets/images/why-choose-thumb.jpg"/>
             <link rel="canonical" href="https://www.itsupport.net.in/"/>
             <link rel="alternate" href="https://www.itsupport.net.in/" hreflang="en-US"/>
             <link rel="alternate" href="https://www.itsupport.net.in/" hreflang="en-AE"/>

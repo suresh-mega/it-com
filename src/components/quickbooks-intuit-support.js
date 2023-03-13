@@ -191,7 +191,7 @@ const about = () => {
             `}</script>
         </Helmet>
         <Navbar />
-        <PageHeader headertitle="QuickBooks Support" headerimage="https://helpteck.com/assets/images/banner-quickbooks-support.jpg" />
+        <PageHeader headertitle="QuickBooks Support" headerimage="https://h6b2a3k3.stackpathcdn.com/assets/images/banner-quickbooks-support.jpg" />
         <QuickbooksDetails  />        
         <Subscribe  />
         <FooterV2 review={reviewdata.quickbooksReview}/>

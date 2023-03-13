@@ -39,7 +39,7 @@ class Navbar extends Component {
                         <div className="navigation">
                           <nav className="navbar navbar-expand-lg">
                             <Link className="navbar-brand" to="/">
-                              <img src={"https://helpteck.com/assets/images/logo.png"} alt="It Support" title="It Support" />
+                              <img src={"https://h6b2a3k3.stackpathcdn.com/assets/images/logo.png"} alt="It Support" title="It Support" />
                             </Link> {/* logo */}
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFive" aria-controls="navbarFive" aria-expanded="false" aria-label="Toggle navigation">
                               <span className="toggler-icon" />

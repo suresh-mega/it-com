@@ -14,7 +14,7 @@ class QuickbooksDetails extends Component {
           <div className="col-lg-8 order-lg-2 order-1">
             <div className="services-details-content mt-30">
               <div className="services-details-thumb">
-                <img src="https://helpteck.com/assets/images/quickbooks-support-top.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-support-top.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                 <span></span>
                 <h2 className="title">QuickBooks Support Services</h2>
                 <p>At HelpTeck, we offer comprehensive Intuit QuickBooks Support Services to help businesses streamline their accounting processes and optimize their financial operations. Our team of expert technicians is well-versed in all aspects of QuickBooks, including QuickBooks Online and QuickBooks Desktop, and can provide tailored solutions to meet your unique needs.Our team is here to assist you if you're facing issues with QuickBooks installation, QuickBooks login, or online login. We can help you resolve common errors and issues such as data file errors, payroll processing errors, and bank accounts reconciliation errors.Our QuickBooks Support Services also include assistance with optimizing your accounting processes, setting up automated workflows, and integrating third-party applications with QuickBooks to enhance your overall productivity. We can help you with custom report generation, data migration, and database maintenance to ensure your financial data is always accurate and up-to-date.If you're facing any issues with QuickBooks, don't hesitate to contact our QuickBooks Support Number for expert assistance from our seasoned technicians. Our customer support team is available round-the-clock to assist you with any queries or concerns. With HelpTeck's Intuit QuickBooks Support Services, you can focus on growing your business while leaving your accounting worries to us.</p>
@@ -23,7 +23,7 @@ class QuickbooksDetails extends Component {
             <div className="row align-items-center mt-45">
               <div className="col-12 mb-3">
                 <div className="services-details-play">
-                  <img src="https://helpteck.com/assets/images/quickbooks-banner-2.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                  <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-banner-2.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                   
                 </div>
               </div>
@@ -44,7 +44,7 @@ class QuickbooksDetails extends Component {
             <div className="row align-items-center mt-45">
               <div className="col-12 mb-3">
                 <div className="services-details-play">
-                  <img src="https://helpteck.com/assets/images/quickbooks-banner-4.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                  <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-banner-4.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                   
                 </div>
               </div>
@@ -64,7 +64,7 @@ class QuickbooksDetails extends Component {
             <div className="row align-items-center mt-45">
               <div className="col-12 mb-3">
                 <div className="services-details-play">
-                  <img src="https://helpteck.com/assets/images/quickbooks-banner-3.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                  <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-banner-3.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                   
                 </div>
               </div>

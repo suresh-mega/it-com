@@ -17,7 +17,7 @@ class AolSupport extends Component {
           <div className="row align-items-center">
           <div className="col-lg-6">
               <div className="why-choose-thumb">
-                <img src="https://helpteck.com/assets/images/why-choose-thumb.jpg" alt="AOL Mail 295" title="AOL Mail 295" />
+                <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/why-choose-thumb.jpg" alt="AOL Mail 295" title="AOL Mail 295" />
               </div>
             </div>
             <div className="col-lg-6 col-md-9">

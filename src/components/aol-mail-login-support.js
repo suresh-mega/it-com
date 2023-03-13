@@ -17,10 +17,10 @@ const about = () => {
             <meta property="og:title" content="Aol Mail Login Support - Aol Mail 295 Download"/>
             <meta property="og:description" content="HelpTeck handle aol mail, aol mail login, aol.com mail, aol.mail, aol mail sign in, mail.aol.com, aol mail 295, mail aol"/>
             <meta property="og:url" content="https://itsupport.net.in/aol-mail-login-support"/>
-            <meta property="og:image" content="https://helpteck.com/assets/images/support.png"/>
+            <meta property="og:image" content="https://h6b2a3k3.stackpathcdn.com/assets/images/support.png"/>
             <meta name="twitter:title" content="Aol Mail Login Support - Aol Mail 295 Download"/>
             <meta name="twitter:description" content="HelpTeck handle aol mail, aol mail login, aol.com mail, aol.mail, aol mail sign in, mail.aol.com, aol mail 295, mail aol"/>
-            <meta name="twitter:image" content="https://helpteck.com/assets/images/social-support.png"/>
+            <meta name="twitter:image" content="https://h6b2a3k3.stackpathcdn.com/assets/images/social-support.png"/>
             <link rel="canonical" href="https://www.itsupport.net.in/quickbooks-intuit-support"/>
             <link rel="alternate" href="https://www.itsupport.net.in/quickbooks-intuit-support" hreflang="en-US"/>
             <link rel="alternate" href="https://www.itsupport.net.in/quickbooks-intuit-support" hreflang="en-AE"/>
@@ -195,7 +195,7 @@ const about = () => {
             `}</script>
         </Helmet>
         <Navbar />
-        <PageHeader headertitle="Aol Mail Support" headerimage="https://helpteck.com/assets/images/banner-aol-support.jpg"/>
+        <PageHeader headertitle="Aol Mail Support" headerimage="https://h6b2a3k3.stackpathcdn.com/assets/images/banner-aol-support.jpg"/>
         <ServiceV5  />
         <Subscribe  />
         <FooterV2 review={reviewdata.aolsupportReview}/>

@@ -14,7 +14,7 @@ class ServiceV5 extends Component {
           <div className="col-lg-8 order-lg-2 order-1">
             <div className="services-details-content mt-30">
               <div className="services-details-thumb">
-                <img src="https://helpteck.com/assets/images/quickbooks-support-top.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-support-top.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                 <span></span>
                 <h2 className="title">AOL Mail Support Services</h2>
                 <p>Are you having trouble with your AOL Mail account? Look no further than HelpTeck's AOL Mail Support Service! Our expert technicians are available 24/7 to provide you with the help you need to resolve any AOL Mail-related issues you may be experiencing.</p>
@@ -23,7 +23,7 @@ class ServiceV5 extends Component {
             <div className="row align-items-center mt-45">
               <div className="col-12 mb-3">
                 <div className="services-details-play">
-                  <img src="https://helpteck.com/assets/images/quickbooks-banner-2.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                  <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-banner-2.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                   
                 </div>
               </div>
@@ -57,7 +57,7 @@ class ServiceV5 extends Component {
             <div className="row align-items-center mt-45">
               <div className="col-12 mb-3">
                 <div className="services-details-play">
-                  <img src="https://helpteck.com/assets/images/quickbooks-banner-4.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                  <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-banner-4.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                   
                 </div>
               </div>
@@ -81,7 +81,7 @@ class ServiceV5 extends Component {
             <div className="row align-items-center mt-45">
               <div className="col-12 mb-3">
                 <div className="services-details-play">
-                  <img src="https://helpteck.com/assets/images/quickbooks-banner-2.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
+                  <img src="https://h6b2a3k3.stackpathcdn.com/assets/images/quickbooks-banner-2.jpg" alt="Quickbooks Support" title="Quickbooks Support" />
                   
                 </div>
               </div>

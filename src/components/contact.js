@@ -83,7 +83,7 @@ const Contact = () => {
             `}</script>
         </Helmet>
         <Navbar />
-        <PageHeader headertitle="Contact" headerimage="https://helpteck.com/assets/images/contact-banner-main.jpg" />
+        <PageHeader headertitle="Contact" headerimage="https://h6b2a3k3.stackpathcdn.com/assets/images/contact-banner-main.jpg" />
         <ContactInfo  />
         <Subscribe  />
         <FooterV2 review={reviewdata.contactReview}/>
