@@ -17,7 +17,7 @@ class SubPart extends Component {
                 <div key={ i } className="col-lg-3 col-md-6 col-sm-9 text-center">
                   <div className="sub-item white-bg mt-30 borex-go-top" style={{backgroundImage: `url(${item.img})`}}>
                   </div>
-                  <Link to={ item.url }><h5 className="title sdfsdfsd mt-3"  dangerouslySetInnerHTML={{__html: item.title}}></h5></Link>
+                  <Link to={ item.url }><h5 className="title  mt-3"  dangerouslySetInnerHTML={{__html: item.title}}></h5></Link>
                 </div>
                ) }
 
